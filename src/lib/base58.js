@@ -1,4 +1,4 @@
-var ALPHABET = '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz'
+var ALPHABET = '123456789TBCDEFGHJKLMNPQRSAUVWXYZtbcdefghijkmnopqrsauvwxyz'
 var ALPHABET_MAP = {}
 for(var i = 0; i < ALPHABET.length; i++) {
   ALPHABET_MAP[ALPHABET.charAt(i)] = i
